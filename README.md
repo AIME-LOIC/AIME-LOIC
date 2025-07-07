@@ -46,8 +46,8 @@ Hi there! I'm **Aime Loic**, a passionate and self-driven developer, ethical hac
 
 ## 📬 Let's Connect
 
-- Instagram: [@your-instagram](https://instagram.com/aime_loic_132)
-- GitHub: [@your-github](https://github.com/AIME-LOIC)
+- Instagram: [instagram](https://instagram.com/aime_loic_132)
+- GitHub: [github](https://github.com/AIME-LOIC)
 - Email: kingaime132@gmail.com
 
 ---
