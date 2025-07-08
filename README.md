@@ -1,12 +1,12 @@
 # 👨‍💻 Aime Loic
 
-Hi there! I'm **Aime Loic**, a passionate and self-driven developer, ethical hacker, and aspiring AI expert. I'm on a journey to master **full-stack development**, **AI/ML**, and **cybersecurity** while building real-world projects and helping others learn through content.
+Hi there! I'm **Aime Loic**, a passionate and self-driven developer, ethical hacker, and aspiring AI expert. I'm on a journey to master **Backend development**, **AI/ML**, and **cybersecurity** while building real-world projects and helping others learn through content.
 
 ---
 
 ## 🌍 About Me
 
-- 💻 I'm currently learning **Full-Stack Development**, **Machine Learning**, and **Ethical Hacking**.
+- 💻 I'm currently learning **Backend Developement**, **Machine Learning**, and **Ethical Hacking**.
 - 🧠 Building projects in Python, PHP, JavaScript, C, and more.
 - 🎯 My dream: Create useful tools like **personal assistants**, **custom OS interfaces**, and **apps for mental health and security**.
 - 📸 I run an [Instagram](https://instagram.com/kali_linux_132) page teaching code and hacking tips.
