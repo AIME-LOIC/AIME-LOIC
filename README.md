@@ -30,7 +30,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,vue,php,mysql,mongodb,linux,bash,nodejs,git,bootstrap,django,docker,react,blender,figma,c,cp,cs,java,dart,go" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,vue,php,mysql,mongodb,linux,bash,nodejs,git,bootstrap,django,docker,react,blender,figma,c,cpp,cs,java,dart,go" />
 </p>
 
 ---
