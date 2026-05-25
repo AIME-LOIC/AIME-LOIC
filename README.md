@@ -7,7 +7,7 @@
 
 ---
 
--  I’m currently working on [**1%**](https://onepercent-rwanda.onrender.com/) & [Q-Nexus](#)
+-  I'm CEO and Founder of [**1%**](https://onepercent-rwanda.onrender.com/) 
 -  I’m learning more about **Cyber Security, ML, and API design**
 -  I post tips & tutorials on [Instagram](https://www.instagram.com/kali_linux_132)
 -  Ask me anything about **Python, JavaScript, Linux, CyberSec**
@@ -47,14 +47,7 @@
 
 ---
 
-## 📂 Featured Projects
-| Project | Description |
-|--------|-------------|
-|  [Q-Nexus](#) | AI health diagnostic platform built with FastAPI |
-|  [HackLab](https://hacklab-9a4f.onrender.com) | Cyber security sandbox & coding lab |
-|  Typing Hero | A coding game inspired by Type Master |
 
----
 
 ## 🧠 Motto
 > “Push yourself, because no one else is going to do it for you.”  
