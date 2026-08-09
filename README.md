@@ -7,7 +7,7 @@
 
 ---
 
--  I'm CEO and Founder of [**1%**](https://onepercent-rwanda.onrender.com/) 
+-  I'm CEO and Founder of [**1percent**](https://onepercent-rwanda.onrender.com/) 
 -  I’m learning more about **Cyber Security, ML, and API design**
 -  I post tips & tutorials on [Instagram](https://www.instagram.com/kali_linux_132)
 -  Ask me anything about **Python, JavaScript, Linux, CyberSec**
